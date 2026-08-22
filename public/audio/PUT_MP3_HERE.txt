@@ -1,2 +1,0 @@
-Save your MP3 here as: not-just-a-profile.mp3
-The player loads it from /audio/not-just-a-profile.mp3
