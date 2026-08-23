@@ -692,8 +692,11 @@ export default function Portfolio() {
             </div>
           </section>
 
-          {/* Marquee — full bleed, seamless CSS-driven loop */}
-          <div className="py-5 -mx-6 md:-mx-16 border-y" style={{ borderColor: line, background: ink }} aria-hidden="true">
+          {/* Marquee — full bleed, seamless CSS-driven loop.
+              overflow-hidden here clips the inner track (which is
+              intentionally wider than the viewport on small screens) so it
+              can never push the document wider than the screen. */}
+          <div className="py-5 -mx-6 md:-mx-16 border-y overflow-hidden" style={{ borderColor: line, background: ink }} aria-hidden="true">
             <div
               className="marquee-cont"
               style={{ '--n': n, '--m': m, '--w': 'clamp(9rem, 8rem + 6vw, 14rem)', '--t': '16s' }}
