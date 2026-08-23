@@ -4,6 +4,9 @@
 
 I connect AI models to the real world through voice, cameras, hardware, and APIs, rather than just studying them in isolation. First-year B.Tech AI/ML student at Symbiosis Institute of Technology (SIT), Pune.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2E2FA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.parthmahato.com.np)
+
+
 ## About
 
 I'm early in my technical journey, but my focus is consistent: taking AI components (LLMs, computer vision, voice interfaces) and integrating them into working, end-to-end systems. My strongest project so far, a bilingual healthcare voice assistant with real-time Gemini streaming and custom hardware, placed 1st Runner-Up at a college tech exhibition. I'm interested in computer vision, LLM/agentic systems, and human-computer interaction, with enough full-stack and backend skill to turn a working prototype into something usable.
@@ -33,7 +36,7 @@ Built around **Gemini Live Duplex Streaming** for continuous microphone-to-Gemin
 
 `Python` `Computer Vision` `Gemini API` `Supabase` `ESP8266` `IoT`
 
-[github.com/parthdubz/Ai-Swasthya-Sathi](https://github.com/parthdubz/Ai-Swasthya-Sathi)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthdubz/Ai-Swasthya-Sathi)
 
 ### Neuro-Nod Elite (Contributor: EAR/MAR Detection Module)
 Browser-based, Edge AI driver-monitoring system for fatigue and drowsiness detection. Runs entirely client-side with no camera data uploaded.
@@ -42,7 +45,9 @@ Uses MediaPipe Face Mesh's 468-point 3D landmarks for EAR-based eye monitoring, 
 
 `MediaPipe` `Computer Vision` `Edge AI` `JavaScript`
 
-[github.com/upahar3000-cloud/Neuro-Nod-Elite](https://github.com/upahar3000-cloud/Neuro-Nod-Elite) · [Live Demo](https://upaharmishra.com.np)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upahar3000-cloud/Neuro-Nod-Elite)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2E2FA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://upaharmishra.com.np)
 
 ### NGO AI Help Desk (Active Prototype)
 24/7 first-line support system giving NGOs an AI-assisted front desk for citizen queries in Hindi, English, or Hinglish, with escalation to human agents.
@@ -51,7 +56,7 @@ Handles session tracking and escalation, with an agent dashboard for managing es
 
 `Google Gemini` `AI Chat` `Team Project`
 
-[github.com/sttupiid/NGO-HELP-DESK](https://github.com/sttupiid/NGO-HELP-DESK)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sttupiid/NGO-HELP-DESK)
 
 ## Achievements
 
@@ -61,7 +66,8 @@ Handles session tracking and escalation, with an agent dashboard for managing es
 - Participant, Deerwalk Hackathon
 
 ## Education
-
+**Graduated From KIST COLLEGE AND SS**,
+10+2 (Science), 2024-2026 <br>
 **B.Tech, Artificial Intelligence and Machine Learning**
 Symbiosis Institute of Technology (SIT), Pune, Year 1, Semester 1
 
@@ -74,6 +80,6 @@ Symbiosis Institute of Technology (SIT), Pune, Year 1, Semester 1
 
 ## Connect
 
-- GitHub: [@parthdubz](https://github.com/parthdubz)
-- LinkedIn: [parth-mahato](https://linkedin.com/in/parth-mahato)
+- [![GitHub](https://img.shields.io/badge/GitHub-%40parthdubz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthdubz)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-parth--mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-mahato)
 - Ex KIST IT Society member
